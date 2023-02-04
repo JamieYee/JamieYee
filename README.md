@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://twitter.com/yishangfei" target="_blank" alt="Twitter" title="Twitter">
-    <img src="https://img.icons8.com/material/48/000000/Twitter.png" width="30px"/>
+    <img src="https://img.icons8.com/material/48/000000/twitter.png" width="30px"/>
   </a>
   &emsp;
   <a href="https://www.zhihu.com/people/yishangfei" target="_blank" alt="Zhihu" title="Zhihu">
