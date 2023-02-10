@@ -1,31 +1,18 @@
 ### Hi there 👋
 
-<p align="center">
-  <a href="https://github.com/yishangfei" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=yishangfei&title_color=333&text_color=777" alt="Charmve's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=yishangfei&hide=issues&title_color=333&text_color=777" alt="yishangfei's Stats" >
-    -->
-  </a>
-</p>
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=yishangfei&show_icons=true&title_color=333&text_color=777">](https://github.com/yishangfei)
 
-<p align="center">
-  <a href="https://twitter.com/yishangfei" target="_blank" alt="Twitter" title="Twitter">
-    <img src="https://img.icons8.com/material/48/000000/twitter.png" width="30px"/>
-  </a>
-  &emsp;
-  <a href="https://www.zhihu.com/people/yishangfei" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://www.youtube.com/channel/UCEgLFDGar3Q3YO7wKh5tESg" target="_blank" alt="YouTube" title="YouTube">
-    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
-  </a>
-  &emsp;
-</p>
+-   :hammer_and_pick: Java / Kotlin / Python / 微信小程序
+-   ⚡ 技术博客: [易大宝.](https://yishangfei.github.io/blog/)
+-   📫 我的邮箱: <yishangfei.me@gmail.com>
 
-<h2></h2>
+[<img width="30" height="30" align="left"  src="https://img.icons8.com/material/50/000000/twitter.png">](https://twitter.com/yishangfei)
 
+[<img width="30" height="30" align="left"  src="https://img.icons8.com/material/50/000000/zhihu.png">](https://zhihu.com/people/yishangfei)
+
+[<img width="30" height="30" align="left"  src="https://img.icons8.com/material/50/000000/youtube-play.png">](https://youtube.com/channel/UCEgLFDGar3Q3YO7wKh5tESg)
+
+----------
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- stackoverflow profile
