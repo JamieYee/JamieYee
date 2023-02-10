@@ -27,6 +27,10 @@
 <!--START_SECTION:waka-->
 
 ```text
+From: 03 February 2023 - To: 09 February 2023
+
+Total Time: 0 secs
+
 No activity tracked
 ```
 
