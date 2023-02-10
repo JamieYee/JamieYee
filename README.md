@@ -42,11 +42,80 @@
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-145-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 113 Contributions in the Year 2023
+ > 
+> 📦 67.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm a Night 🦉** 
 
 ```text
-TypeScript   25 hrs 31 mins  ███████████████████████▒░   93.42 %
-JSON         44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-JavaScript   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+🌞 Morning       44 commits       ████░░░░░░░░░░░░░░░░░░░░░   18.41 % 
+🌆 Daytime       71 commits       ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+🌃 Evening      117 commits       ████████████░░░░░░░░░░░░░   48.95 % 
+🌙 Night          7 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+
 ```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday          48 commits       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Tuesday         34 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Wednesday       30 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Thursday        18 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Friday          50 commits       █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+Saturday        24 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Sunday          35 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27 % 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/yishangfei/yishangfei/main/charts/bar_graph.png) 
+
+
+ Last Updated on 10/02/2023 09:27:29 UTC
 <!--END_SECTION:waka-->
