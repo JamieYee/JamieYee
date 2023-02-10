@@ -14,13 +14,10 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_TITLE: true
           # 图形
           BLOCKS: "⬜🟨🟩"
           # 时间范围
           TIME_RANGE: all_time
           # 显示时间
           SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          LANG_COUNT: 10
           
