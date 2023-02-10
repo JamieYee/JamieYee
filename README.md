@@ -7,12 +7,11 @@
 -   📫 我的邮箱: <yishangfei.me@gmail.com>
 
 <p align="center">
- <a href="https://twitter.com/yishangfei"><img src="https://img.icons8.com/material/50/000000/twitter.png" width="30px;" alt="易大宝"/></a>
- <a href="https://youtube.com/channel/UCEgLFDGar3Q3YO7wKh5tESg"><img src="https://img.icons8.com/material/50/000000/youtube-play.png" width="30px;" alt="易大宝"/></a>
- <a href="https://zhihu.com/people/yishangfei"><img src="https://img.icons8.com/material/50/000000/zhihu.png" width="30px;" alt="易大宝"/></a>
+ <a href="https://twitter.com/yishangfei"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="30px;" alt="易大宝"/></a>
 </p>
-<br/>
-<br/>
+
+<small><img src="https://v1.jinrishici.com/all.svg?font-size=24&spacing=3"></small>
+<br />
 
 ---
 [<img align="right" width="50%" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">](https://github.com/yishangfei)
