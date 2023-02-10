@@ -10,7 +10,7 @@
  <a href="https://twitter.com/yishangfei"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="30px;" alt="易大宝"/></a>
 </p>
 
-<small><img src="https://v1.jinrishici.com/all.svg?font-size=24&spacing=3"></small>
+<small><img src="https://v1.jinrishici.com/all.svg?font-size=16&spacing=3"></small>
 <br />
 
 ---
