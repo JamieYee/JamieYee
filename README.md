@@ -15,7 +15,7 @@
 </p>
 
 ---
-[<img align="right" width="50%" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">](https://github.com/yishangfei)
+
 ### Languages and Tools:
 [<img align="left" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">](https://github.com/yishangfei)
 [<img align="left" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">](https://github.com/yishangfei)
