@@ -4,7 +4,7 @@
 - 🧠 I have experience in Flutter and Native Android Development, and in also UI Design
 
 ### Languages and Tools
-<img align="left" alt=“Kotlin” width="100px" src="https://www.vectorlogo.zone/logos/kotlin/kotlin-ar21.svg" />
+<img align="left" alt=“Kotlin” width="100px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/kotlinlang/kotlinlang-ar21.svg" />
 <img align="left" alt=“Java” width="100px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
 <img align="left" alt=“Flutter” width="100px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" />
 <img align="left" alt=“Dart” width="100px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" />
